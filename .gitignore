@@ -1,0 +1,4 @@
+# build output (built by build.bat / GitHub Actions)
+*.exe
+*.ico
+*.pdb
